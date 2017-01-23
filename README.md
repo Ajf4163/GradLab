@@ -9,5 +9,6 @@ Cheers,
 AF
 _______________________________________________________________________________
 
-Date        || Nature of Change/ Comments
-1/23/2017      Git created.
+Date           Nature of Change/ Comments
+
+1/23/2017::    Git created.

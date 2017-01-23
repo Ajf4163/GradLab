@@ -1,2 +1,7 @@
 # GradLab
-This is where our code lives
+"This is where our code lives"
+
+PLEASE DON'T COMMIT TO MASTER BRANCH UNTIL UNTIL CODE TESTED AND VALIDATED FROM TESTING BRANCH.
+
+Cheers,
+AF
